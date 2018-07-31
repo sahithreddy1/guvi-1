@@ -11,7 +11,7 @@ class Ideone
 		System.out.println("enter the string");
 		int n=sc.nextInt();
 		
-		for(int i=0;i<=n;i++)
+		for(int i=0;i<n;i++)
 		System.out.println("Hello");
 		
 	}
