@@ -10,7 +10,7 @@ class Ideone
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the string");
 		int n=sc.nextInt();
-		System.out.println("repeat number of times");
+		
 		for(int i=0;i<=n;i++)
 		System.out.println("Hello");
 		
