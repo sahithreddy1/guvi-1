@@ -21,12 +21,12 @@ class Ideone
 		}
 		if(n==rev)
 		{
-			System.out.println("is a palindrome");
+			System.out.println("yes");
 			
 		}
 		else
 		{
-			System.out.println("is not a palindrome");
+			System.out.println("no");
 		}
 	}
 }
