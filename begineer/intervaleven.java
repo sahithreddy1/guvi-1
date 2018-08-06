@@ -9,7 +9,8 @@ class Ideone
 	{
 		Scanner sc =new Scanner(System.in);
 		int n=sc.nextInt();
-		for(int i=1;i<=n;i++)
+		int c=sc.nextInt();
+		for(int i=a;i<=n;i++)
 		if(i%2==0)
 		{
 			System.out.println(+i);
