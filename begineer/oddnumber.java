@@ -13,6 +13,6 @@ class Ideone
 		for(int i=b;i<=n;i++)
 		if((i%2)!=0)
 		{
-			System.out.println(i);
+			System.out.println(i+" ");
 		}
 	}
