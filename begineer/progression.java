@@ -19,7 +19,7 @@ class Ideone
 			sum=sum+a;
 			a=a+d;
 		}
-		System.out.println(sum);
+		System.out.print(sum);
 		
 		
 			
