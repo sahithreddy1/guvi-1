@@ -9,7 +9,7 @@ class Ideone
 	{
 		Scanner sc =new Scanner(System.in);
 		int n=sc.nextInt();
-		String num=sc.nextLine();
+		double num=sc.nextDouble();
 		for(int i=0;i<n;i++)
 		{
 			System.out.println(num);
