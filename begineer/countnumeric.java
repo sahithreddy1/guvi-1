@@ -27,6 +27,6 @@ class Ideone
 				{
 				}
 			}
-			System.out.println(numbers+" ");
+			System.out.println(numbers+"");
 	}
 }
